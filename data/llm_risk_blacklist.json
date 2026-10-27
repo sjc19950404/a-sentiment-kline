@@ -1,0 +1,14 @@
+{
+ "kind": "llm-risk-blacklist",
+ "version": 1,
+ "asOfDate": "2026-10-26",
+ "generatedAt": "2026-10-26T21:11:42.629+08:00",
+ "model": "glm-4-flash",
+ "source": "announcements-latest.json",
+ "scanned": 13,
+ "universe": "ladder",
+ "limit": 40,
+ "blacklist": [],
+ "degraded": false,
+ "note": "正向封禁黑名单：paper.js 建仓前查此表，命中即拒绝买入；空表 = 不封禁（fail-open，未跑/无源绝不误伤正常交易）。风险等级 high/medium 入列。结构性 ST 强制 high。"
+}
