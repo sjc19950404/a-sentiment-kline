@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
  "source": "sina-bulletin",
- "fetchedAt": "2026-10-27T18:28:53.528+08:00",
+ "fetchedAt": "2026-10-27T18:39:28.038+08:00",
  "codes": 40,
  "count": 21,
  "announcements": {
@@ -16,15 +16,15 @@
   "603565": "中谷物流：北京植德(上海)律师事务所关于上海中谷物流股份有限公司2026年限制性股票激励计划的法律意见书；中谷物流：2026年限制性股票激励计划(草案)；中谷物流：上海荣正企业咨询服务(集团)股份有限公司关于上海中谷物流股份有限公司2026年限制性股票激励计划(草案)之独立财务顾问报告；中谷物流：董事会薪酬与考核委员会关于公司2026年限制性股票激励计划相关事项的核查意见；中谷物流：2026年限制性股票激励计划实施考核管理办法；中谷物流：2026年限制性股票激励计划(草案)摘要公告；中谷物流：2026年限制性股票激励计划激励对象名单；中谷物流：关于召开2026年第五次临时股东会的通知；中谷物流：2026年第三季度报告；中谷物流：第四届董事会第二十二次会议决议公告",
   "605333": "沪光股份：关于使用部分闲置募集资金进行现金管理的进展公告；沪光股份：关于公司及全资子公司使用闲置自有资金委托理财产品到期赎回的公告；沪光股份：关于解除公司全资子公司之间提供担保的公告",
   "001318": "阳光乳业：股票交易异常波动公告；阳光乳业：2026年三季度报告；阳光乳业：第六届董事会第十二次会议决议公告",
-  "002820": "桂发祥：股票交易异常波动公告",
-  "002708": "光洋股份：股票交易异常波动公告",
   "001331": "胜通能源：股票交易异常波动公告；胜通能源：2026年三季度报告；胜通能源：第四届董事会第五次会议决议公告",
+  "002820": "桂发祥：股票交易异常波动公告",
   "002093": "国脉科技：股票交易异常波动公告",
-  "002011": "盾安环境：2026年三季度报告",
+  "002708": "光洋股份：股票交易异常波动公告",
   "001400": "江顺科技：2026年三季度报告",
   "002284": "亚太股份：关于公开摘牌取得广州亚太汽车底盘系统有限公司49%股权的公告；亚太股份：2026年三季度报告",
-  "002724": "海洋王：2026年三季度报告；海洋王：第七届董事会2026年第三次临时会议决议公告；海洋王：关于高级管理人员辞职的公告",
+  "002011": "盾安环境：2026年三季度报告",
   "002823": "凯中精密：董事会战略与可持续发展委员会实施细则(2026年10月)；凯中精密：2026年三季度报告；凯中精密：第五届董事会第十九次会议决议公告；凯中精密：关于2026年前三季度计提资产减值准备的公告；凯中精密：关于董事会战略委员会更名并修订其实施细则的公告",
+  "002724": "海洋王：2026年三季度报告；海洋王：第七届董事会2026年第三次临时会议决议公告；海洋王：关于高级管理人员辞职的公告",
   "002205": "国统股份：2026年三季度报告；国统股份：第七届董事会第四次会议决议公告"
  },
  "details": [
@@ -335,28 +335,6 @@
    ]
   },
   {
-   "code": "002820",
-   "name": "桂发祥",
-   "announcements": [
-    {
-     "title": "桂发祥：股票交易异常波动公告",
-     "date": "2026-10-28",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002820&id=12666689"
-    }
-   ]
-  },
-  {
-   "code": "002708",
-   "name": "光洋股份",
-   "announcements": [
-    {
-     "title": "光洋股份：股票交易异常波动公告",
-     "date": "2026-10-28",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002708&id=12665411"
-    }
-   ]
-  },
-  {
    "code": "001331",
    "name": "胜通能源",
    "announcements": [
@@ -378,6 +356,17 @@
    ]
   },
   {
+   "code": "002820",
+   "name": "桂发祥",
+   "announcements": [
+    {
+     "title": "桂发祥：股票交易异常波动公告",
+     "date": "2026-10-28",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002820&id=12666689"
+    }
+   ]
+  },
+  {
    "code": "002093",
    "name": "国脉科技",
    "announcements": [
@@ -389,13 +378,13 @@
    ]
   },
   {
-   "code": "002011",
-   "name": "盾安环境",
+   "code": "002708",
+   "name": "光洋股份",
    "announcements": [
     {
-     "title": "盾安环境：2026年三季度报告",
-     "date": "2026-10-27",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002011&id=12663297"
+     "title": "光洋股份：股票交易异常波动公告",
+     "date": "2026-10-28",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002708&id=12665411"
     }
    ]
   },
@@ -427,23 +416,13 @@
    ]
   },
   {
-   "code": "002724",
-   "name": "海洋王",
+   "code": "002011",
+   "name": "盾安环境",
    "announcements": [
     {
-     "title": "海洋王：2026年三季度报告",
+     "title": "盾安环境：2026年三季度报告",
      "date": "2026-10-27",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002724&id=12663103"
-    },
-    {
-     "title": "海洋王：第七届董事会2026年第三次临时会议决议公告",
-     "date": "2026-10-27",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002724&id=12663102"
-    },
-    {
-     "title": "海洋王：关于高级管理人员辞职的公告",
-     "date": "2026-10-27",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002724&id=12663101"
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002011&id=12663297"
     }
    ]
   },
@@ -475,6 +454,27 @@
      "title": "凯中精密：关于董事会战略委员会更名并修订其实施细则的公告",
      "date": "2026-10-27",
      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002823&id=12662506"
+    }
+   ]
+  },
+  {
+   "code": "002724",
+   "name": "海洋王",
+   "announcements": [
+    {
+     "title": "海洋王：2026年三季度报告",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002724&id=12663103"
+    },
+    {
+     "title": "海洋王：第七届董事会2026年第三次临时会议决议公告",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002724&id=12663102"
+    },
+    {
+     "title": "海洋王：关于高级管理人员辞职的公告",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002724&id=12663101"
     }
    ]
   },
