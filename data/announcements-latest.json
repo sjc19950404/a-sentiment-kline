@@ -1,38 +1,72 @@
 {
- "date": "2026-10-26",
+ "date": "2026-10-27",
  "source": "sina-bulletin",
- "fetchedAt": "2026-10-26T21:11:19.127+08:00",
+ "fetchedAt": "2026-10-27T18:28:53.528+08:00",
  "codes": 40,
- "count": 13,
+ "count": 21,
  "announcements": {
-  "300976": "达瑞电子：关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告；达瑞电子：回购股份报告书",
+  "300504": "天邑股份：2026年三季度报告；天邑股份：第五届董事会第十二次会议决议公告；天邑股份：关于公司2026年7月-9月计提减值准备的公告",
+  "300539": "横河精密：第五届董事会第十四次会议决议公告；横河精密：关于变更公司内审部负责人的公告；横河精密：2026年三季度报告",
   "301314": "科瑞思：关于披露发行股份及支付现金购买资产并募集配套资金暨关联交易预案的一般风险提示暨公司股票复牌的公告2；科瑞思：发行股份及支付现金购买资产并募集配套资金暨关联交易预案；科瑞思：董事会关于本次交易采取的保密措施及保密制度的说明；科瑞思：董事会关于本次交易履行法定程序完备性、合规性及提交法律文件有效性的说明；科瑞思：发行股份及支付现金购买资产并募集配套资金暨关联交易预案(摘要)；科瑞思：董事会关于本次交易构成关联交易的说明；科瑞思：董事会关于本次交易符合《创业板上市公司持续监管办法(试行)》第十八条、第二十一条以及《深圳证券交易所上市公司重大资产重组审核规则》第八条规定的说明；科瑞思：董事会关于本次交易构成重大资产重组但不构成重组上市的说明；科瑞思：董事会关于本次交易符合《上市公司监管指引第9号——上市公司筹划和实施重大资产重组的监管要求》第四条规定的说明；科瑞思：董事会关于本次交易符合《上市公司重大资产重组管理办法》第十一条、第四十三条和第四十四条有关规定的说明；科瑞思：董事会关于本次重组相关主体不存在《上市公司监管指引第7号—上市公司重大资产重组相关股票异常交易监管》第十二条及《深圳证券交易所上市公司自律监管指引第8号—重大资产重组》第三十条规定情形的说明；科瑞思：董事会关于本次交易符合《上市公司证券发行注册管理办法》第十一条规定的说明；科瑞思：董事会关于本次交易前十二个月内购买、出售资产的说明；科瑞思：董事会关于本次交易信息发布前公司股票价格波动情况的说明；科瑞思：关于暂不召开股东会审议本次交易相关事项的公告；科瑞思：关于筹划发行股份及支付现金购买资产并募集配套资金事项停牌前一个交易日前十大股东和前十大流通股股东持股情况的公告；科瑞思：第二届董事会第十四次会议决议公告；科瑞思：关于披露发行股份及支付现金购买资产并募集配套资金暨关联交易预案的一般风险提示暨公司股票复牌的公告",
-  "301502": "华阳智能：关于股票交易异常波动公告",
-  "600094": "大名城：股票交易异常波动公告",
+  "301479": "弘景光电：2026年三季度报告",
+  "601566": "九牧王：第六届董事会第十一次会议决议公告；九牧王：第六届董事会第十一次会议决议；九牧王：2026年第三季度报告",
   "603028": "赛福天：股票交易风险提示性公告",
+  "603037": "凯众股份：上海东方华银律师事务所关于上海凯众材料科技股份有限公司2026年第三次临时股东会之法律意见书；凯众股份：2026年第三次临时股东会决议公告",
   "603528": "多伦科技：股票交易风险提示公告",
+  "603565": "中谷物流：北京植德(上海)律师事务所关于上海中谷物流股份有限公司2026年限制性股票激励计划的法律意见书；中谷物流：2026年限制性股票激励计划(草案)；中谷物流：上海荣正企业咨询服务(集团)股份有限公司关于上海中谷物流股份有限公司2026年限制性股票激励计划(草案)之独立财务顾问报告；中谷物流：董事会薪酬与考核委员会关于公司2026年限制性股票激励计划相关事项的核查意见；中谷物流：2026年限制性股票激励计划实施考核管理办法；中谷物流：2026年限制性股票激励计划(草案)摘要公告；中谷物流：2026年限制性股票激励计划激励对象名单；中谷物流：关于召开2026年第五次临时股东会的通知；中谷物流：2026年第三季度报告；中谷物流：第四届董事会第二十二次会议决议公告",
   "605333": "沪光股份：关于使用部分闲置募集资金进行现金管理的进展公告；沪光股份：关于公司及全资子公司使用闲置自有资金委托理财产品到期赎回的公告；沪光股份：关于解除公司全资子公司之间提供担保的公告",
-  "605488": "福莱新材：控股股东及实际控制人关于《浙江福莱新材料股份有限公司可转换公司债券交易异常波动问询函》的回函；福莱新材：一致行动人嘉兴市进取企业管理合伙企业(有限合伙)关于《浙江福莱新材料股份有限公司可转换公司债券交易异常波动问询函》的回函；福莱新材：股票交易风险提示公告；福莱新材：可转换公司债券交易异常波动的公告",
-  "688585": "上纬新材：股票交易异常波动公告",
-  "000559": "万向钱潮：股票交易异常波动公告",
-  "002931": "锋龙股份：2026年三季度报告",
-  "000810": "创维数字：股票交易异常波动公告",
-  "000700": "模塑科技：股票交易异常波动公告"
+  "001318": "阳光乳业：股票交易异常波动公告；阳光乳业：2026年三季度报告；阳光乳业：第六届董事会第十二次会议决议公告",
+  "002820": "桂发祥：股票交易异常波动公告",
+  "002708": "光洋股份：股票交易异常波动公告",
+  "001331": "胜通能源：股票交易异常波动公告；胜通能源：2026年三季度报告；胜通能源：第四届董事会第五次会议决议公告",
+  "002093": "国脉科技：股票交易异常波动公告",
+  "002011": "盾安环境：2026年三季度报告",
+  "001400": "江顺科技：2026年三季度报告",
+  "002284": "亚太股份：关于公开摘牌取得广州亚太汽车底盘系统有限公司49%股权的公告；亚太股份：2026年三季度报告",
+  "002724": "海洋王：2026年三季度报告；海洋王：第七届董事会2026年第三次临时会议决议公告；海洋王：关于高级管理人员辞职的公告",
+  "002823": "凯中精密：董事会战略与可持续发展委员会实施细则(2026年10月)；凯中精密：2026年三季度报告；凯中精密：第五届董事会第十九次会议决议公告；凯中精密：关于2026年前三季度计提资产减值准备的公告；凯中精密：关于董事会战略委员会更名并修订其实施细则的公告",
+  "002205": "国统股份：2026年三季度报告；国统股份：第七届董事会第四次会议决议公告"
  },
  "details": [
   {
-   "code": "300976",
-   "name": "达瑞电子",
+   "code": "300504",
+   "name": "天邑股份",
    "announcements": [
     {
-     "title": "达瑞电子：关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+     "title": "天邑股份：2026年三季度报告",
      "date": "2026-10-27",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300976&id=12662662"
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300504&id=12662519"
     },
     {
-     "title": "达瑞电子：回购股份报告书",
+     "title": "天邑股份：第五届董事会第十二次会议决议公告",
      "date": "2026-10-27",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300976&id=12662661"
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300504&id=12662518"
+    },
+    {
+     "title": "天邑股份：关于公司2026年7月-9月计提减值准备的公告",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300504&id=12662517"
+    }
+   ]
+  },
+  {
+   "code": "300539",
+   "name": "横河精密",
+   "announcements": [
+    {
+     "title": "横河精密：第五届董事会第十四次会议决议公告",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300539&id=12662846"
+    },
+    {
+     "title": "横河精密：关于变更公司内审部负责人的公告",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300539&id=12662845"
+    },
+    {
+     "title": "横河精密：2026年三季度报告",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300539&id=12662844"
     }
    ]
   },
@@ -133,24 +167,34 @@
    ]
   },
   {
-   "code": "301502",
-   "name": "华阳智能",
+   "code": "301479",
+   "name": "弘景光电",
    "announcements": [
     {
-     "title": "华阳智能：关于股票交易异常波动公告",
-     "date": "2026-10-27",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=301502&id=12661582"
+     "title": "弘景光电：2026年三季度报告",
+     "date": "2026-10-26",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=301479&id=12659305"
     }
    ]
   },
   {
-   "code": "600094",
-   "name": "大名城",
+   "code": "601566",
+   "name": "九牧王",
    "announcements": [
     {
-     "title": "大名城：股票交易异常波动公告",
-     "date": "2026-10-27",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600094&id=12662455"
+     "title": "九牧王：第六届董事会第十一次会议决议公告",
+     "date": "2026-10-28",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601566&id=12666241"
+    },
+    {
+     "title": "九牧王：第六届董事会第十一次会议决议",
+     "date": "2026-10-28",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601566&id=12666240"
+    },
+    {
+     "title": "九牧王：2026年第三季度报告",
+     "date": "2026-10-28",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601566&id=12666239"
     }
    ]
   },
@@ -166,6 +210,22 @@
    ]
   },
   {
+   "code": "603037",
+   "name": "凯众股份",
+   "announcements": [
+    {
+     "title": "凯众股份：上海东方华银律师事务所关于上海凯众材料科技股份有限公司2026年第三次临时股东会之法律意见书",
+     "date": "2026-10-28",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603037&id=12665836"
+    },
+    {
+     "title": "凯众股份：2026年第三次临时股东会决议公告",
+     "date": "2026-10-28",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603037&id=12665835"
+    }
+   ]
+  },
+  {
    "code": "603528",
    "name": "多伦科技",
    "announcements": [
@@ -173,6 +233,62 @@
      "title": "多伦科技：股票交易风险提示公告",
      "date": "2026-10-27",
      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603528&id=12662815"
+    }
+   ]
+  },
+  {
+   "code": "603565",
+   "name": "中谷物流",
+   "announcements": [
+    {
+     "title": "中谷物流：北京植德(上海)律师事务所关于上海中谷物流股份有限公司2026年限制性股票激励计划的法律意见书",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603565&id=12661557"
+    },
+    {
+     "title": "中谷物流：2026年限制性股票激励计划(草案)",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603565&id=12661556"
+    },
+    {
+     "title": "中谷物流：上海荣正企业咨询服务(集团)股份有限公司关于上海中谷物流股份有限公司2026年限制性股票激励计划(草案)之独立财务顾问报告",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603565&id=12661555"
+    },
+    {
+     "title": "中谷物流：董事会薪酬与考核委员会关于公司2026年限制性股票激励计划相关事项的核查意见",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603565&id=12661554"
+    },
+    {
+     "title": "中谷物流：2026年限制性股票激励计划实施考核管理办法",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603565&id=12661553"
+    },
+    {
+     "title": "中谷物流：2026年限制性股票激励计划(草案)摘要公告",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603565&id=12661552"
+    },
+    {
+     "title": "中谷物流：2026年限制性股票激励计划激励对象名单",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603565&id=12661551"
+    },
+    {
+     "title": "中谷物流：关于召开2026年第五次临时股东会的通知",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603565&id=12661550"
+    },
+    {
+     "title": "中谷物流：2026年第三季度报告",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603565&id=12661549"
+    },
+    {
+     "title": "中谷物流：第四届董事会第二十二次会议决议公告",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603565&id=12661548"
     }
    ]
   },
@@ -198,83 +314,183 @@
    ]
   },
   {
-   "code": "605488",
-   "name": "福莱新材",
+   "code": "001318",
+   "name": "阳光乳业",
    "announcements": [
     {
-     "title": "福莱新材：控股股东及实际控制人关于《浙江福莱新材料股份有限公司可转换公司债券交易异常波动问询函》的回函",
-     "date": "2026-10-27",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=605488&id=12661790"
+     "title": "阳光乳业：股票交易异常波动公告",
+     "date": "2026-10-28",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=001318&id=12665448"
     },
     {
-     "title": "福莱新材：一致行动人嘉兴市进取企业管理合伙企业(有限合伙)关于《浙江福莱新材料股份有限公司可转换公司债券交易异常波动问询函》的回函",
-     "date": "2026-10-27",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=605488&id=12661789"
+     "title": "阳光乳业：2026年三季度报告",
+     "date": "2026-10-28",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=001318&id=12664442"
     },
     {
-     "title": "福莱新材：股票交易风险提示公告",
-     "date": "2026-10-27",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=605488&id=12661788"
+     "title": "阳光乳业：第六届董事会第十二次会议决议公告",
+     "date": "2026-10-28",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=001318&id=12664437"
+    }
+   ]
+  },
+  {
+   "code": "002820",
+   "name": "桂发祥",
+   "announcements": [
+    {
+     "title": "桂发祥：股票交易异常波动公告",
+     "date": "2026-10-28",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002820&id=12666689"
+    }
+   ]
+  },
+  {
+   "code": "002708",
+   "name": "光洋股份",
+   "announcements": [
+    {
+     "title": "光洋股份：股票交易异常波动公告",
+     "date": "2026-10-28",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002708&id=12665411"
+    }
+   ]
+  },
+  {
+   "code": "001331",
+   "name": "胜通能源",
+   "announcements": [
+    {
+     "title": "胜通能源：股票交易异常波动公告",
+     "date": "2026-10-28",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=001331&id=12666740"
     },
     {
-     "title": "福莱新材：可转换公司债券交易异常波动的公告",
-     "date": "2026-10-27",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=605488&id=12661787"
+     "title": "胜通能源：2026年三季度报告",
+     "date": "2026-10-28",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=001331&id=12666333"
+    },
+    {
+     "title": "胜通能源：第四届董事会第五次会议决议公告",
+     "date": "2026-10-28",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=001331&id=12666332"
     }
    ]
   },
   {
-   "code": "688585",
-   "name": "上纬新材",
+   "code": "002093",
+   "name": "国脉科技",
    "announcements": [
     {
-     "title": "上纬新材：股票交易异常波动公告",
-     "date": "2026-10-27",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=688585&id=12663598"
+     "title": "国脉科技：股票交易异常波动公告",
+     "date": "2026-10-28",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002093&id=12666724"
     }
    ]
   },
   {
-   "code": "000559",
-   "name": "万向钱潮",
+   "code": "002011",
+   "name": "盾安环境",
    "announcements": [
     {
-     "title": "万向钱潮：股票交易异常波动公告",
+     "title": "盾安环境：2026年三季度报告",
      "date": "2026-10-27",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000559&id=12663205"
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002011&id=12663297"
     }
    ]
   },
   {
-   "code": "002931",
-   "name": "锋龙股份",
+   "code": "001400",
+   "name": "江顺科技",
    "announcements": [
     {
-     "title": "锋龙股份：2026年三季度报告",
-     "date": "2026-10-27",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002931&id=12663055"
+     "title": "江顺科技：2026年三季度报告",
+     "date": "2026-10-28",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=001400&id=12664530"
     }
    ]
   },
   {
-   "code": "000810",
-   "name": "创维数字",
+   "code": "002284",
+   "name": "亚太股份",
    "announcements": [
     {
-     "title": "创维数字：股票交易异常波动公告",
+     "title": "亚太股份：关于公开摘牌取得广州亚太汽车底盘系统有限公司49%股权的公告",
      "date": "2026-10-27",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000810&id=12663786"
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002284&id=12661209"
+    },
+    {
+     "title": "亚太股份：2026年三季度报告",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002284&id=12660130"
     }
    ]
   },
   {
-   "code": "000700",
-   "name": "模塑科技",
+   "code": "002724",
+   "name": "海洋王",
    "announcements": [
     {
-     "title": "模塑科技：股票交易异常波动公告",
+     "title": "海洋王：2026年三季度报告",
      "date": "2026-10-27",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000700&id=12661432"
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002724&id=12663103"
+    },
+    {
+     "title": "海洋王：第七届董事会2026年第三次临时会议决议公告",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002724&id=12663102"
+    },
+    {
+     "title": "海洋王：关于高级管理人员辞职的公告",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002724&id=12663101"
+    }
+   ]
+  },
+  {
+   "code": "002823",
+   "name": "凯中精密",
+   "announcements": [
+    {
+     "title": "凯中精密：董事会战略与可持续发展委员会实施细则(2026年10月)",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002823&id=12662510"
+    },
+    {
+     "title": "凯中精密：2026年三季度报告",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002823&id=12662509"
+    },
+    {
+     "title": "凯中精密：第五届董事会第十九次会议决议公告",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002823&id=12662508"
+    },
+    {
+     "title": "凯中精密：关于2026年前三季度计提资产减值准备的公告",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002823&id=12662507"
+    },
+    {
+     "title": "凯中精密：关于董事会战略委员会更名并修订其实施细则的公告",
+     "date": "2026-10-27",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002823&id=12662506"
+    }
+   ]
+  },
+  {
+   "code": "002205",
+   "name": "国统股份",
+   "announcements": [
+    {
+     "title": "国统股份：2026年三季度报告",
+     "date": "2026-10-28",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002205&id=12666424"
+    },
+    {
+     "title": "国统股份：第七届董事会第四次会议决议公告",
+     "date": "2026-10-28",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002205&id=12666423"
     }
    ]
   }
