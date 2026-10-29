@@ -1,9 +1,9 @@
 {
  "date": "2026-10-29",
  "source": "sina-bulletin",
- "fetchedAt": "2026-10-29T18:40:44.163+08:00",
+ "fetchedAt": "2026-10-29T21:11:56.107+08:00",
  "codes": 39,
- "count": 30,
+ "count": 33,
  "announcements": {
   "301079": "邵阳液压：关于公司股价异常波动的公告",
   "600118": "中国卫星：2026年第三季度报告；中国卫星：第十届董事会第八次会议决议公告",
@@ -12,9 +12,9 @@
   "600576": "祥源文旅：董事会秘书工作制度(2026年10月)；祥源文旅：第九届董事会第二十三次会议决议公告；祥源文旅：2026年第三季度报告",
   "600592": "龙溪股份：2026年第三季度报告",
   "600643": "爱建集团：估值提升计划暨2026年度“提质增效重回报”行动方案半年度执行情况评估报告；爱建集团：董事会秘书工作制度(2026年10月)；爱建集团：十届6次董事会议决议公告；爱建集团：内部审计管理制度(2026年10月)；爱建集团：2026年三季度报告；爱建集团：信息披露管理制度(2026年10月)；爱建集团：信息披露暂缓与豁免管理办法(2026年10月)",
-  "600715": "文投控股：股票交易异常波动公告",
+  "600715": "文投控股：2026年第三季度报告；文投控股：十一届董事会第十九次会议决议公告；文投控股：股票交易风险提示公告；文投控股：关于2026年前三季度主要经营数据的公告；文投控股：股票交易异常波动公告",
   "600997": "开滦股份：2026年第三季度报告；开滦股份：2026年第三季度主要经营数据公告",
-  "601188": "龙江交通：2026年第四次临时股东会会议资料",
+  "601188": "龙江交通：第五届董事会2026年第四次临时会议决议公告；龙江交通：关于召开2026年第四次临时股东会的通知；龙江交通：2026年第三季度报告；龙江交通：关于续聘会计师事务所的公告；龙江交通：关于2026年度中期分红方案的公告；龙江交通：2026年第四次临时股东会会议资料(修定版)；龙江交通：2026年第四次临时股东会会议资料",
   "601956": "东贝集团：股票交易异常波动公告",
   "603006": "联明股份：股票交易异常波动公告；联明股份：2026年第三季度报告",
   "603103": "横店影视：2026年第三季度报告",
@@ -27,14 +27,17 @@
   "001219": "青岛食品：股票交易异常波动暨风险提示公告；青岛食品：股票交易异常波动公告",
   "002708": "光洋股份：股票交易异常波动公告；光洋股份：2026年三季度报告；光洋股份：第六届董事会第四次会议决议公告；光洋股份：股票交易异常波动公告",
   "002526": "山东矿机：股票交易异常波动公告",
-  "002862": "实丰文化：关于实丰文化发展股份有限公司2026年第二次临时股东会的法律意见书；实丰文化：第五届董事会第一次会议决议公告；实丰文化：2026年第二次临时股东会决议公告；实丰文化：关于公司为下属公司提供担保进展的公告",
+  "002862": "实丰文化：2026年三季度报告；实丰文化：第五届董事会第二次会议决议公告；实丰文化：关于股票交易异常波动的公告；实丰文化：关于实丰文化发展股份有限公司2026年第二次临时股东会的法律意见书；实丰文化：第五届董事会第一次会议决议公告；实丰文化：2026年第二次临时股东会决议公告；实丰文化：关于公司为下属公司提供担保进展的公告",
+  "002943": "宇晶股份：股票交易异常波动公告",
+  "002172": "澳洋健康：东吴证券股份有限公司关于江苏澳洋健康产业股份有限公司详式权益变动报告书之2026年第三季度持续督导意见；澳洋健康：股票交易异常波动公告",
   "002277": "友阿股份：2026年三季度报告；友阿股份：第七届董事会第十一次会议决议公告；友阿股份：关于召开2026年第三次临时股东会的通知；友阿股份：关于聘请会计师事务所的公告；友阿股份：关于深圳证券交易所上市审核中心审核公司发行股份及支付现金购买资产并募集配套资金暨关联交易事项会议安排的公告；友阿股份：2-1重大资产重组报告书；友阿股份：3-1独立财务顾问报告；友阿股份：3-2法律意见书；友阿股份：4-1本次重大资产重组涉及的拟购买资产最近两年及一期的财务报告和审计报告(确实无法提供的,应当说明原因及相关资产的财务状况和经营成果)；友阿股份：1湖南友谊阿波罗商业股份有限公司关于深圳证券交易所《关于湖南友谊阿波罗商业股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》之回复；友阿股份：2西部证券股份有限公司关于深圳证券交易所《关于湖南友谊阿波罗商业股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》相关问题回复之核查意见；友阿股份：3立信会计师事务所(特殊普通合伙)关于深圳证券交易所《关于湖南友谊阿波罗商业股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》之专项回复意见；友阿股份：4湖南启元律师事务所关于湖南友谊阿波罗商业股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易的补充法律意见书(一)；友阿股份：5北京中企华资产评估有限责任公司关于深圳证券交易所《关于湖南友谊阿波罗商业股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》资产评估相关问题之答复；友阿股份：北京中企华资产评估有限责任公司关于深圳证券交易所《关于湖南友谊阿波罗商业股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》资产评估相关问题之答复；友阿股份：西部证券股份有限公司关于深圳证券交易所《关于湖南友谊阿波罗商业股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》相关问题回复之核查意见；友阿股份：立信会计师事务所(特殊普通合伙)关于深圳证券交易所《关于湖南友谊阿波罗商业股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》之专项回复意见；友阿股份：湖南启元律师事务所关于湖南友谊阿波罗商业股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易的补充法律意见书(一)；友阿股份：关于深圳证券交易所《关于湖南友谊阿波罗商业股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》之回复(修订稿)；友阿股份：关于收到深圳证券交易所恢复审核发行股份及支付现金购买资产并募集配套资金通知的公告；友阿股份：关于控股股东所持公司部分股份被司法拍卖的进展公告",
-  "003032": "传智教育：2026年三季度报告",
-  "002679": "福建金森：关于2026年前三季度计提信用减值损失的公告；福建金森：2026年三季度报告；福建金森：2026年第二次临时股东会决议公告；福建金森：北京德恒(深圳)律师事务所关于福建金森林业股份有限公司2026年第二次临时股东会的法律意见；福建金森：对外投资管理制度；福建金森：关于董事会完成换届选举并聘任高级管理人员及相关人员的公告；福建金森：第七届董事会第一次会议决议的公告",
+  "003032": "传智教育：投资者关系管理信息20261029；传智教育：2026年三季度报告",
   "001225": "和泰机电：关于2026年前三季度计提资产减值准备的公告；和泰机电：第三届董事会第二次会议决议公告；和泰机电：2026年三季度报告",
+  "002679": "福建金森：关于2026年前三季度计提信用减值损失的公告；福建金森：2026年三季度报告；福建金森：2026年第二次临时股东会决议公告；福建金森：北京德恒(深圳)律师事务所关于福建金森林业股份有限公司2026年第二次临时股东会的法律意见；福建金森：对外投资管理制度；福建金森：关于董事会完成换届选举并聘任高级管理人员及相关人员的公告；福建金森：第七届董事会第一次会议决议的公告",
   "002275": "桂林三金：关于2026年前三季度计提资产减值准备的公告；桂林三金：第九届董事会第四次会议决议公告；桂林三金：2026年三季度报告；桂林三金：关于2026年前三季度利润分配方案的公告",
-  "002086": "东方海洋：关于收到股东要求召开临时股东会审议董事会换届选举事项的函的公告；东方海洋：2026年三季度报告",
-  "002531": "天顺风能：2026年三季度报告；天顺风能：关于举行2026年三季度网上业绩说明会的公告；天顺风能：第六届董事会2026年第九次会议决议公告"
+  "002531": "天顺风能：2026年三季度报告；天顺风能：关于举行2026年三季度网上业绩说明会的公告；天顺风能：第六届董事会2026年第九次会议决议公告",
+  "002149": "西部材料：独立董事提名人声明与承诺-杨冠军；西部材料：独立董事提名人声明与承诺-李永宁；西部材料：独立董事提名人声明与承诺-董南雁；西部材料：独立董事候选人声明与承诺-杨冠军；西部材料：独立董事候选人声明与承诺-李永宁；西部材料：独立董事候选人声明与承诺-董南雁；西部材料：董事会提名委员会关于对第九届董事会董事候选人任职资格的审核意见；西部材料：2026年三季度报告；西部材料：第八届董事会第二十八次会议决议公告；西部材料：关于董事会换届选举的公告；西部材料：关于召开2026年第三次临时股东会的通知",
+  "002086": "东方海洋：关于收到股东要求召开临时股东会审议董事会换届选举事项的函的公告；东方海洋：2026年三季度报告"
  },
  "details": [
   {
@@ -179,6 +182,26 @@
    "name": "文投控股",
    "announcements": [
     {
+     "title": "文投控股：2026年第三季度报告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600715&id=12679146"
+    },
+    {
+     "title": "文投控股：十一届董事会第十九次会议决议公告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600715&id=12679145"
+    },
+    {
+     "title": "文投控股：股票交易风险提示公告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600715&id=12679144"
+    },
+    {
+     "title": "文投控股：关于2026年前三季度主要经营数据的公告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600715&id=12679143"
+    },
+    {
      "title": "文投控股：股票交易异常波动公告",
      "date": "2026-10-29",
      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600715&id=12673108"
@@ -205,6 +228,36 @@
    "code": "601188",
    "name": "龙江交通",
    "announcements": [
+    {
+     "title": "龙江交通：第五届董事会2026年第四次临时会议决议公告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601188&id=12679427"
+    },
+    {
+     "title": "龙江交通：关于召开2026年第四次临时股东会的通知",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601188&id=12679426"
+    },
+    {
+     "title": "龙江交通：2026年第三季度报告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601188&id=12679425"
+    },
+    {
+     "title": "龙江交通：关于续聘会计师事务所的公告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601188&id=12679424"
+    },
+    {
+     "title": "龙江交通：关于2026年度中期分红方案的公告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601188&id=12679423"
+    },
+    {
+     "title": "龙江交通：2026年第四次临时股东会会议资料(修定版)",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601188&id=12679422"
+    },
     {
      "title": "龙江交通：2026年第四次临时股东会会议资料",
      "date": "2026-10-30",
@@ -449,6 +502,21 @@
    "name": "实丰文化",
    "announcements": [
     {
+     "title": "实丰文化：2026年三季度报告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002862&id=12679705"
+    },
+    {
+     "title": "实丰文化：第五届董事会第二次会议决议公告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002862&id=12679704"
+    },
+    {
+     "title": "实丰文化：关于股票交易异常波动的公告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002862&id=12679703"
+    },
+    {
      "title": "实丰文化：关于实丰文化发展股份有限公司2026年第二次临时股东会的法律意见书",
      "date": "2026-10-28",
      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002862&id=12668153"
@@ -467,6 +535,33 @@
      "title": "实丰文化：关于公司为下属公司提供担保进展的公告",
      "date": "2026-10-28",
      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002862&id=12668150"
+    }
+   ]
+  },
+  {
+   "code": "002943",
+   "name": "宇晶股份",
+   "announcements": [
+    {
+     "title": "宇晶股份：股票交易异常波动公告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002943&id=12680142"
+    }
+   ]
+  },
+  {
+   "code": "002172",
+   "name": "澳洋健康",
+   "announcements": [
+    {
+     "title": "澳洋健康：东吴证券股份有限公司关于江苏澳洋健康产业股份有限公司详式权益变动报告书之2026年第三季度持续督导意见",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002172&id=12679340"
+    },
+    {
+     "title": "澳洋健康：股票交易异常波动公告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002172&id=12679339"
     }
    ]
   },
@@ -586,9 +681,35 @@
    "name": "传智教育",
    "announcements": [
     {
+     "title": "传智教育：投资者关系管理信息20261029",
+     "date": "2026-10-29",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=003032&id=12680739"
+    },
+    {
      "title": "传智教育：2026年三季度报告",
      "date": "2026-10-29",
      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=003032&id=12669301"
+    }
+   ]
+  },
+  {
+   "code": "001225",
+   "name": "和泰机电",
+   "announcements": [
+    {
+     "title": "和泰机电：关于2026年前三季度计提资产减值准备的公告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=001225&id=12675924"
+    },
+    {
+     "title": "和泰机电：第三届董事会第二次会议决议公告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=001225&id=12675923"
+    },
+    {
+     "title": "和泰机电：2026年三季度报告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=001225&id=12675920"
     }
    ]
   },
@@ -634,27 +755,6 @@
    ]
   },
   {
-   "code": "001225",
-   "name": "和泰机电",
-   "announcements": [
-    {
-     "title": "和泰机电：关于2026年前三季度计提资产减值准备的公告",
-     "date": "2026-10-30",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=001225&id=12675924"
-    },
-    {
-     "title": "和泰机电：第三届董事会第二次会议决议公告",
-     "date": "2026-10-30",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=001225&id=12675923"
-    },
-    {
-     "title": "和泰机电：2026年三季度报告",
-     "date": "2026-10-30",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=001225&id=12675920"
-    }
-   ]
-  },
-  {
    "code": "002275",
    "name": "桂林三金",
    "announcements": [
@@ -681,22 +781,6 @@
    ]
   },
   {
-   "code": "002086",
-   "name": "东方海洋",
-   "announcements": [
-    {
-     "title": "东方海洋：关于收到股东要求召开临时股东会审议董事会换届选举事项的函的公告",
-     "date": "2026-10-30",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002086&id=12676841"
-    },
-    {
-     "title": "东方海洋：2026年三季度报告",
-     "date": "2026-10-29",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002086&id=12670103"
-    }
-   ]
-  },
-  {
    "code": "002531",
    "name": "天顺风能",
    "announcements": [
@@ -714,6 +798,83 @@
      "title": "天顺风能：第六届董事会2026年第九次会议决议公告",
      "date": "2026-10-29",
      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002531&id=12670433"
+    }
+   ]
+  },
+  {
+   "code": "002149",
+   "name": "西部材料",
+   "announcements": [
+    {
+     "title": "西部材料：独立董事提名人声明与承诺-杨冠军",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002149&id=12679702"
+    },
+    {
+     "title": "西部材料：独立董事提名人声明与承诺-李永宁",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002149&id=12679701"
+    },
+    {
+     "title": "西部材料：独立董事提名人声明与承诺-董南雁",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002149&id=12679700"
+    },
+    {
+     "title": "西部材料：独立董事候选人声明与承诺-杨冠军",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002149&id=12679699"
+    },
+    {
+     "title": "西部材料：独立董事候选人声明与承诺-李永宁",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002149&id=12679698"
+    },
+    {
+     "title": "西部材料：独立董事候选人声明与承诺-董南雁",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002149&id=12679697"
+    },
+    {
+     "title": "西部材料：董事会提名委员会关于对第九届董事会董事候选人任职资格的审核意见",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002149&id=12679696"
+    },
+    {
+     "title": "西部材料：2026年三季度报告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002149&id=12679695"
+    },
+    {
+     "title": "西部材料：第八届董事会第二十八次会议决议公告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002149&id=12679694"
+    },
+    {
+     "title": "西部材料：关于董事会换届选举的公告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002149&id=12679693"
+    },
+    {
+     "title": "西部材料：关于召开2026年第三次临时股东会的通知",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002149&id=12679692"
+    }
+   ]
+  },
+  {
+   "code": "002086",
+   "name": "东方海洋",
+   "announcements": [
+    {
+     "title": "东方海洋：关于收到股东要求召开临时股东会审议董事会换届选举事项的函的公告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002086&id=12676841"
+    },
+    {
+     "title": "东方海洋：2026年三季度报告",
+     "date": "2026-10-29",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002086&id=12670103"
     }
    ]
   }
