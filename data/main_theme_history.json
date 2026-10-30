@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-29T13:11:24.166Z",
-  "days": 10,
+  "generatedAt": "2026-10-30T10:45:31.709Z",
+  "days": 11,
   "theme_days": 12,
   "strength_dist": {
    "强主线": 4,
@@ -275,6 +275,12 @@
    ],
    "rotation": true,
    "prev_main_theme": "汽车零部"
+  },
+  {
+   "date": "20261030",
+   "main_themes": [],
+   "rotation": false,
+   "prev_main_theme": "通用设备"
   }
  ]
 }
