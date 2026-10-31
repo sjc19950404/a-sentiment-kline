@@ -1,7 +1,7 @@
 {
  "date": "2026-10-30",
  "source": "sina-bulletin",
- "fetchedAt": "2026-10-30T21:15:05.109+08:00",
+ "fetchedAt": "2026-10-31T18:41:11.613+08:00",
  "codes": 40,
  "count": 35,
  "announcements": {
@@ -26,16 +26,16 @@
   "605169": "洪通燃气：章程；洪通燃气：关于变更公司注册资本暨修改《公司章程》的公告；洪通燃气：2026年第三季度报告；洪通燃气：第四届董事会第二次会议决议公告",
   "605338": "巴比食品：股票交易异常波动公告；巴比食品：投资者关系活动记录表-2026-1005；巴比食品：2026年第三季度经营数据公告；巴比食品：关于2026年中期利润分配方案的公告；巴比食品：关于变更董事会秘书及证券事务代表的公告；巴比食品：2026年第三季度报告；巴比食品：董事会秘书工作细则(2026年10月修订)；巴比食品：第四届董事会第六次会议决议公告",
   "688045": "必易微：股票交易异常波动公告；必易微：关于2026年前三季度计提资产减值准备及存货报废的公告；必易微：2026年第三季度报告",
-  "001219": "青岛食品：股票交易异常波动暨风险提示公告",
   "002172": "澳洋健康：东吴证券股份有限公司关于江苏澳洋健康产业股份有限公司详式权益变动报告书之2026年第三季度持续督导意见；澳洋健康：股票交易异常波动公告",
-  "002086": "东方海洋：股票交易异常波动公告；东方海洋：关于收到股东要求召开临时股东会审议董事会换届选举事项的函的公告；东方海洋：2026年三季度报告",
-  "002275": "桂林三金：股票交易异常波动公告",
+  "001219": "青岛食品：股票交易异常波动暨风险提示公告",
   "003032": "传智教育：股票交易异常波动公告；传智教育：投资者关系管理信息20261029；传智教育：2026年三季度报告",
+  "002275": "桂林三金：股票交易异常波动公告",
+  "002086": "东方海洋：股票交易异常波动公告；东方海洋：关于收到股东要求召开临时股东会审议董事会换届选举事项的函的公告；东方海洋：2026年三季度报告",
   "000410": "沈阳机床：中信证券股份有限公司关于沈阳机床股份有限公司及控股子公司购买资产暨关联交易的核查意见；沈阳机床：通用技术集团沈阳机床有限责任公司拟转让资产所涉及部分固定资产市场价值资产评估报告；沈阳机床：中信证券股份有限公司关于沈阳机床股份有限公司使用部分暂时闲置募集资金继续进行现金管理的核查意见；沈阳机床：中信证券股份有限公司关于沈阳机床股份有限公司子公司因公开谈判采购形成关联交易的核查意见；沈阳机床：关于公司及控股子公司购买资产暨关联交易的公告；沈阳机床：关于使用部分闲置募集资金进行现金管理到期赎回并继续进行现金管理的公告；沈阳机床：2026年三季度报告；沈阳机床：第十一届董事会第三次会议决议公告；沈阳机床：关于召开2026年第三次临时股东会的通知；沈阳机床：关于子公司因公开谈判采购形成关联交易的公告",
-  "000716": "黑芝麻：2026年三季度报告；黑芝麻：第十一届董事会2026年第九次临时会议决议公告；黑芝麻：关于会计政策变更的公告",
   "001287": "中电港：2026年三季度报告；中电港：关于新增开展外汇衍生品交易业务额度的可行性分析报告；中电港：第二届董事会第十五次会议决议公告；中电港：关于新增开展外汇衍生品交易业务额度的公告；中电港：关于2026年第三季度计提减值准备的公告",
-  "000897": "津滨发展：2026年三季度报告",
   "002365": "永安药业：2026年三季度报告；永安药业：第七届董事会第十八次会议决议公告",
+  "000897": "津滨发展：2026年三季度报告",
+  "000716": "黑芝麻：2026年三季度报告；黑芝麻：第十一届董事会2026年第九次临时会议决议公告；黑芝麻：关于会计政策变更的公告",
   "000417": "合百集团：2026年三季度报告；合百集团：第十届董事会第十五次临时会议决议公告；合百集团：关于召开2026年第一次临时股东会的通知；合百集团：关于会计政策变更的公告；合百集团：关于增加2026年度日常关联交易预计的公告",
   "000676": "智度股份：2026年三季度报告；智度股份：第十届董事会第二十二次会议决议公告；智度股份：关于开展外汇衍生品交易业务的公告；智度股份：关于全资孙公司完成工商变更登记的公告；智度股份：开展外汇衍生品交易业务的可行性分析报告",
   "000596": "古井贡酒：关于股票交易异常波动的公告；古井贡B：2026年三季度报告(英文版)；古井贡酒：关于召开2026年第一次临时股东会的通知；古井贡酒：第十一届董事会第三次会议决议公告；古井贡酒：21-2026年中期利润分配预案；古井贡酒：2026年三季度报告",
@@ -634,17 +634,6 @@
    ]
   },
   {
-   "code": "001219",
-   "name": "青岛食品",
-   "announcements": [
-    {
-     "title": "青岛食品：股票交易异常波动暨风险提示公告",
-     "date": "2026-10-30",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=001219&id=12676550"
-    }
-   ]
-  },
-  {
    "code": "002172",
    "name": "澳洋健康",
    "announcements": [
@@ -661,34 +650,13 @@
    ]
   },
   {
-   "code": "002086",
-   "name": "东方海洋",
+   "code": "001219",
+   "name": "青岛食品",
    "announcements": [
     {
-     "title": "东方海洋：股票交易异常波动公告",
-     "date": "2026-10-31",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002086&id=12685333"
-    },
-    {
-     "title": "东方海洋：关于收到股东要求召开临时股东会审议董事会换届选举事项的函的公告",
+     "title": "青岛食品：股票交易异常波动暨风险提示公告",
      "date": "2026-10-30",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002086&id=12676841"
-    },
-    {
-     "title": "东方海洋：2026年三季度报告",
-     "date": "2026-10-29",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002086&id=12670103"
-    }
-   ]
-  },
-  {
-   "code": "002275",
-   "name": "桂林三金",
-   "announcements": [
-    {
-     "title": "桂林三金：股票交易异常波动公告",
-     "date": "2026-10-31",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002275&id=12685460"
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=001219&id=12676550"
     }
    ]
   },
@@ -710,6 +678,38 @@
      "title": "传智教育：2026年三季度报告",
      "date": "2026-10-29",
      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=003032&id=12669301"
+    }
+   ]
+  },
+  {
+   "code": "002275",
+   "name": "桂林三金",
+   "announcements": [
+    {
+     "title": "桂林三金：股票交易异常波动公告",
+     "date": "2026-10-31",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002275&id=12685460"
+    }
+   ]
+  },
+  {
+   "code": "002086",
+   "name": "东方海洋",
+   "announcements": [
+    {
+     "title": "东方海洋：股票交易异常波动公告",
+     "date": "2026-10-31",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002086&id=12685333"
+    },
+    {
+     "title": "东方海洋：关于收到股东要求召开临时股东会审议董事会换届选举事项的函的公告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002086&id=12676841"
+    },
+    {
+     "title": "东方海洋：2026年三季度报告",
+     "date": "2026-10-29",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002086&id=12670103"
     }
    ]
   },
@@ -770,27 +770,6 @@
    ]
   },
   {
-   "code": "000716",
-   "name": "黑芝麻",
-   "announcements": [
-    {
-     "title": "黑芝麻：2026年三季度报告",
-     "date": "2026-10-30",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000716&id=12678535"
-    },
-    {
-     "title": "黑芝麻：第十一届董事会2026年第九次临时会议决议公告",
-     "date": "2026-10-30",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000716&id=12678534"
-    },
-    {
-     "title": "黑芝麻：关于会计政策变更的公告",
-     "date": "2026-10-30",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000716&id=12678533"
-    }
-   ]
-  },
-  {
    "code": "001287",
    "name": "中电港",
    "announcements": [
@@ -822,17 +801,6 @@
    ]
   },
   {
-   "code": "000897",
-   "name": "津滨发展",
-   "announcements": [
-    {
-     "title": "津滨发展：2026年三季度报告",
-     "date": "2026-10-30",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000897&id=12674955"
-    }
-   ]
-  },
-  {
    "code": "002365",
    "name": "永安药业",
    "announcements": [
@@ -845,6 +813,38 @@
      "title": "永安药业：第七届董事会第十八次会议决议公告",
      "date": "2026-10-30",
      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002365&id=12674884"
+    }
+   ]
+  },
+  {
+   "code": "000897",
+   "name": "津滨发展",
+   "announcements": [
+    {
+     "title": "津滨发展：2026年三季度报告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000897&id=12674955"
+    }
+   ]
+  },
+  {
+   "code": "000716",
+   "name": "黑芝麻",
+   "announcements": [
+    {
+     "title": "黑芝麻：2026年三季度报告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000716&id=12678535"
+    },
+    {
+     "title": "黑芝麻：第十一届董事会2026年第九次临时会议决议公告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000716&id=12678534"
+    },
+    {
+     "title": "黑芝麻：关于会计政策变更的公告",
+     "date": "2026-10-30",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000716&id=12678533"
     }
    ]
   },
