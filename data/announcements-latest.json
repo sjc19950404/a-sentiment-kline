@@ -1,7 +1,7 @@
 {
  "date": "2026-11-02",
  "source": "sina-bulletin",
- "fetchedAt": "2026-11-02T22:24:41.614+08:00",
+ "fetchedAt": "2026-11-03T00:50:40.308+08:00",
  "codes": 40,
  "count": 14,
  "announcements": {
@@ -13,12 +13,12 @@
   "600633": "浙数文化：关于公司副总经理离任的公告",
   "600640": "国脉文化：关于召开2026年三季报业绩说明会的公告",
   "603587": "地素时尚：股票交易异常波动公告",
-  "001219": "青岛食品：股票交易异常波动暨风险提示公告",
   "002172": "澳洋健康：股票交易异常波动公告",
-  "000525": "红太阳：关于股票交易异常波动暨风险提示的公告",
+  "001219": "青岛食品：股票交易异常波动暨风险提示公告",
+  "000417": "合百集团：关于股票交易异常波动的公告",
   "000410": "沈阳机床：关于股票交易异常波动的公告",
   "000995": "皇台酒业：关于股票交易异常波动的公告",
-  "000417": "合百集团：关于股票交易异常波动的公告"
+  "000525": "红太阳：关于股票交易异常波动暨风险提示的公告"
  },
  "details": [
   {
@@ -115,17 +115,6 @@
    ]
   },
   {
-   "code": "001219",
-   "name": "青岛食品",
-   "announcements": [
-    {
-     "title": "青岛食品：股票交易异常波动暨风险提示公告",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=001219&id=12687779"
-    }
-   ]
-  },
-  {
    "code": "002172",
    "name": "澳洋健康",
    "announcements": [
@@ -137,13 +126,24 @@
    ]
   },
   {
-   "code": "000525",
-   "name": "红太阳",
+   "code": "001219",
+   "name": "青岛食品",
    "announcements": [
     {
-     "title": "红太阳：关于股票交易异常波动暨风险提示的公告",
+     "title": "青岛食品：股票交易异常波动暨风险提示公告",
      "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000525&id=12688644"
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=001219&id=12687779"
+    }
+   ]
+  },
+  {
+   "code": "000417",
+   "name": "合百集团",
+   "announcements": [
+    {
+     "title": "合百集团：关于股票交易异常波动的公告",
+     "date": "2026-11-03",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000417&id=12687733"
     }
    ]
   },
@@ -170,13 +170,13 @@
    ]
   },
   {
-   "code": "000417",
-   "name": "合百集团",
+   "code": "000525",
+   "name": "红太阳",
    "announcements": [
     {
-     "title": "合百集团：关于股票交易异常波动的公告",
+     "title": "红太阳：关于股票交易异常波动暨风险提示的公告",
      "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000417&id=12687733"
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000525&id=12688644"
     }
    ]
   }
