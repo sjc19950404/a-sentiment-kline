@@ -1,9 +1,9 @@
 {
  "meta": {
-  "generatedAt": "2026-10-30T13:14:47.272Z",
-  "days": 255,
+  "generatedAt": "2026-11-02T14:24:24.779Z",
+  "days": 256,
   "exact_days": 9,
-  "approx_days": 246,
+  "approx_days": 247,
   "rules": "src/emotion_cycle.js（冰点>退潮>高潮>主升>复苏>震荡；score 六项加权 0-100）",
   "caliber_note": "approx=true 日子来自 archive.json 汇总字段：broken_rate/hard_board_rate 为触板口径（≠池内 zbc 口径）、theme_concentration 为 null（主升不触发）；精确数据自 ztpool_history.json 积累之日起覆盖（接口只能取最近交易日）",
   "emotion_dist": {
@@ -11,7 +11,7 @@
    "复苏": 58,
    "冰点": 2,
    "退潮": 7,
-   "高潮": 30
+   "高潮": 31
   }
  },
  "history": [
@@ -4073,6 +4073,22 @@
     "theme_concentration": null,
     "theme_top": null,
     "hard_board_rate": 0.6026
+   },
+   "approx": true,
+   "approx_source": "archive_summary"
+  },
+  {
+   "date": "20261102",
+   "emotion": "高潮",
+   "score": 71,
+   "metrics": {
+    "limit_up_count": 125,
+    "continuous_count": 11,
+    "broken_rate": 0.183,
+    "max_board": 6,
+    "theme_concentration": null,
+    "theme_top": null,
+    "hard_board_rate": 0.817
    },
    "approx": true,
    "approx_source": "archive_summary"
