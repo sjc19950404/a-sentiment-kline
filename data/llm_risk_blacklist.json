@@ -1,14 +1,24 @@
 {
  "kind": "llm-risk-blacklist",
  "version": 1,
- "asOfDate": "2026-11-02",
- "generatedAt": "2026-11-03T00:50:55.393+08:00",
+ "asOfDate": "2026-11-03",
+ "generatedAt": "2026-11-03T18:46:19.354+08:00",
  "model": "glm-4-flash",
  "source": "announcements-latest.json",
- "scanned": 14,
+ "scanned": 16,
  "universe": "ladder",
  "limit": 40,
- "blacklist": [],
+ "blacklist": [
+  {
+   "code": "603289",
+   "name": "泰瑞机器",
+   "riskLevel": "medium",
+   "reasons": [
+    "对外投资及购买资产"
+   ],
+   "evidence": "泰瑞机器：关于对外投资及购买资产的公告；泰瑞机器：第五届董事会第十七次会议决议公告；泰瑞机器：关于泰瑞机器股份有限公司对外投资暨购买资产相关事项的监管工作函"
+  }
+ ],
  "degraded": false,
  "note": "正向封禁黑名单：paper.js 建仓前查此表，命中即拒绝买入；空表 = 不封禁（fail-open，未跑/无源绝不误伤正常交易）。风险等级 high/medium 入列。结构性 ST 强制 high。"
 }
