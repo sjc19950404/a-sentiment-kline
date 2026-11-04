@@ -1,90 +1,102 @@
 {
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "source": "sina-bulletin",
- "fetchedAt": "2026-11-04T10:39:09.076+08:00",
+ "fetchedAt": "2026-11-04T21:18:23.486+08:00",
  "codes": 40,
  "count": 22,
  "announcements": {
-  "600261": "阳光照明：股票交易异常波动的公告；阳光照明：股票交易风险提示的公告",
-  "600293": "三峡新材：股票交易异常波动公告；三峡新材：2026年第三次临时股东会会议资料；三峡新材：关于竞拍取得采矿权的进展公告",
-  "600327": "大东方：关于召开2026年第三季度业绩说明会的公告",
-  "600715": "文投控股：股票交易异常波动公告",
-  "600892": "大晟文化：股票交易异常波动公告；大晟文化：关于持股5%以上股东权益变动触及5%刻度的提示性公告；大晟文化：简式权益变动报告书(许锦光)",
-  "601599": "浙文影业：股票交易异常波动公告",
-  "603258": "电魂网络：关于股票交易异常波动的公告",
-  "603289": "泰瑞机器：关于对外投资及购买资产的公告；泰瑞机器：第五届董事会第十七次会议决议公告；泰瑞机器：关于泰瑞机器股份有限公司对外投资暨购买资产相关事项的监管工作函",
-  "603906": "龙蟠科技：关于日常经营重大合同相关事项的监管工作函的回复公告；龙蟠科技：关于召开2026年第六次临时股东会的通知；龙蟠科技：2026年第六次临时股东会会议资料；龙蟠科技：中信建投证券股份有限公司关于江苏龙蟠科技集团股份有限公司向特定对象发行A股股票限售股上市流通的核查意见；龙蟠科技：关于向特定对象发行A股股票限售股上市流通的公告；龙蟠科技：关于公司控股股东部分股份质押的公告",
-  "605388": "均瑶健康：投资者关系活动记录表2026-008",
-  "605577": "龙版传媒：关于股票交易异常波动公告",
-  "002086": "东方海洋：股票交易异常波动暨风险提示公告",
-  "000995": "皇台酒业：关于股票交易异常波动的公告",
-  "002827": "高争民爆：股票交易异常波动公告；高争民爆：关于回购公司股份进展的公告；高争民爆：天风证券股份有限公司关于西藏高争民爆股份有限公司收购报告书之2026年第三季度持续督导意见；高争民爆：发行股份购买资产并募集配套资金暨关联交易预案；高争民爆：关于本次重大资产重组采取的保密措施及保密制度的说明；高争民爆：关于本次交易履行法定程序的完备性、合规性及提交法律文件有效性的说明；高争民爆：发行股份购买资产并募集配套资金暨关联交易预案(摘要)；高争民爆：关于本次交易预计构成重大资产重组、关联交易、不构成重组上市的说明；高争民爆：关于本次交易符合《上市公司监管指引第9号—上市公司筹划和实施重大资产重组的监管要求》第四条规定的说明；高争民爆：关于本次交易相关主体不存在《上市公司监管指引第7号—上市公司重大资产重组相关股票异常交易监管》第十二条及《深圳证券交易所上市公司自律监管指引第8号—重大资产重组》第三十条情形的说明；高争民爆：关于本次交易不存在《上市公司证券发行注册管理办法》第十一条规定的不得向特定对象发行股票的情形的说明；高争民爆：关于本次交易符合《上市公司重大资产重组管理办法》第十一条、第四十三条和第四十四条规定的说明；高争民爆：关于本次重组信息公布前公司股票价格波动情况的说明；高争民爆：关于本次重组前12个月内购买、出售资产情况的说明；高争民爆：第四届董事会独立董事专门会议第十一次会议决议；高争民爆：关于暂不召开股东会审议本次交易相关事项的公告；高争民爆：关于披露发行股份购买资产并募集配套资金暨关联交易事项预案的一般风险提示暨公司股票复牌的提示性公告；高争民爆：关于筹划重大资产重组停牌前一个交易日前十大股东和前十大流通股股东持股情况的公告；高争民爆：第四届董事会第二十四次会议决议公告",
-  "002029": "七匹狼：关于股票交易异常波动的公告",
-  "002292": "奥飞娱乐：关于回购股份的进展公告；奥飞娱乐：股票交易异常波动公告；奥飞娱乐：2026年11月3日投资者关系活动记录表",
-  "000599": "青岛双星：股票交易异常波动公告",
+  "300489": "光智科技：关于控股股东部分股份解除质押及新增质押的公告",
+  "300788": "中信出版：股票交易异常波动公告",
+  "300943": "春晖智控：关于使用部分闲置募集资金和自有资金进行现金管理的进展公告",
+  "600584": "长电科技：2026年第二次临时股东会会议资料",
+  "600641": "先导基电：关于董事、高级管理人员增持股份计划实施完毕暨增持结果公告；先导基电：关于控股股东部分股份解除质押及质押的公告",
+  "600699": "均胜电子：关于以集中竞价交易方式回购股份方案的公告",
+  "600892": "大晟文化：股票交易风险提示公告；大晟文化：股票交易异常波动公告；大晟文化：关于持股5%以上股东权益变动触及5%刻度的提示性公告；大晟文化：简式权益变动报告书(许锦光)",
+  "600988": "赤峰黄金：H股市场公告",
+  "601123": "马矿股份：关于完成工商变更登记并换发营业执照的公告；马矿股份：福建至理律师事务所关于福建马坑矿业股份有限公司2026年第六次临时股东会的法律意见书；马矿股份：2026年第六次临时股东会决议公告；马矿股份：股票交易异常波动公告；马矿股份：第八届董事会第九次会议决议公告；马矿股份：2026年第七次临时股东会会议材料",
+  "601599": "浙文影业：股票交易风险提示性公告；浙文影业：股票交易异常波动公告",
+  "603127": "昭衍新药：H股公告：10月月报表",
+  "603203": "快克智能：关于2025年限制性股票激励计划部分限制性股票回购注销实施的公告；快克智能：2025年限制性股票激励计划部分限制性股票回购注销实施的法律意见",
+  "603256": "宏和科技：关于部分募集资金账户销户的公告",
+  "603259": "药明康德：关于召开2026年第三季度业绩说明会的公告；药明康德：H股公告",
+  "603381": "永臻股份：股票交易异常波动公告",
+  "605577": "龙版传媒：关于股票交易风险提示性公告；龙版传媒：关于股票交易异常波动公告",
   "002578": "闽发铝业：股票交易异常波动公告",
   "002058": "紫竹高科：关于控股子公司向全国中小企业股份转让系统申请股票终止挂牌事项进展的提示性公告；紫竹高科：关于股票交易异常波动的公告",
-  "002692": "远程股份：中复碳芯电缆科技有限公司审计报告；远程股份：拟股权收购所涉及的中复碳芯电缆科技有限公司股东全部权益价值资产评估报告；远程股份：关于拟组成联合体并通过公开摘牌方式收购中复碳芯电缆科技有限公司股权的公告；远程股份：第六届董事会第六次会议决议公告；远程股份：关于召开2026年第二次临时股东会的通知；远程股份：关于拟续聘会计师事务所的公告",
+  "002827": "高争民爆：股票交易异常波动公告；高争民爆：关于回购公司股份进展的公告；高争民爆：天风证券股份有限公司关于西藏高争民爆股份有限公司收购报告书之2026年第三季度持续督导意见",
+  "002992": "宝明科技：关于全资子公司为公司提供担保的进展公告；宝明科技：关于全资子公司为公司提供担保的进展公告",
   "002088": "鲁阳节能：股票交易异常波动公告",
-  "000591": "太阳能：关于2026年1-10月新增光伏装机容量、独立储能备案容量及发电量完成情况的公告"
+  "000679": "大连友谊：股票交易异常波动公告"
  },
  "details": [
   {
-   "code": "600261",
-   "name": "阳光照明",
+   "code": "300489",
+   "name": "光智科技",
    "announcements": [
     {
-     "title": "阳光照明：股票交易异常波动的公告",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600261&id=12689768"
-    },
-    {
-     "title": "阳光照明：股票交易风险提示的公告",
+     "title": "光智科技：关于控股股东部分股份解除质押及新增质押的公告",
      "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600261&id=12686843"
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300489&id=12689291"
     }
    ]
   },
   {
-   "code": "600293",
-   "name": "三峡新材",
+   "code": "300788",
+   "name": "中信出版",
    "announcements": [
     {
-     "title": "三峡新材：股票交易异常波动公告",
+     "title": "中信出版：股票交易异常波动公告",
      "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600293&id=12689589"
-    },
-    {
-     "title": "三峡新材：2026年第三次临时股东会会议资料",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600293&id=12689480"
-    },
-    {
-     "title": "三峡新材：关于竞拍取得采矿权的进展公告",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600293&id=12687425"
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300788&id=12691830"
     }
    ]
   },
   {
-   "code": "600327",
-   "name": "大东方",
+   "code": "300943",
+   "name": "春晖智控",
    "announcements": [
     {
-     "title": "大东方：关于召开2026年第三季度业绩说明会的公告",
+     "title": "春晖智控：关于使用部分闲置募集资金和自有资金进行现金管理的进展公告",
      "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600327&id=12686819"
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300943&id=12689101"
     }
    ]
   },
   {
-   "code": "600715",
-   "name": "文投控股",
+   "code": "600584",
+   "name": "长电科技",
    "announcements": [
     {
-     "title": "文投控股：股票交易异常波动公告",
+     "title": "长电科技：2026年第二次临时股东会会议资料",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600584&id=12691149"
+    }
+   ]
+  },
+  {
+   "code": "600641",
+   "name": "先导基电",
+   "announcements": [
+    {
+     "title": "先导基电：关于董事、高级管理人员增持股份计划实施完毕暨增持结果公告",
      "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600715&id=12690262"
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600641&id=12689636"
+    },
+    {
+     "title": "先导基电：关于控股股东部分股份解除质押及质押的公告",
+     "date": "2026-11-04",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600641&id=12689634"
+    }
+   ]
+  },
+  {
+   "code": "600699",
+   "name": "均胜电子",
+   "announcements": [
+    {
+     "title": "均胜电子：关于以集中竞价交易方式回购股份方案的公告",
+     "date": "2026-11-04",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600699&id=12690397"
     }
    ]
   },
@@ -92,6 +104,11 @@
    "code": "600892",
    "name": "大晟文化",
    "announcements": [
+    {
+     "title": "大晟文化：股票交易风险提示公告",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600892&id=12691932"
+    },
     {
      "title": "大晟文化：股票交易异常波动公告",
      "date": "2026-11-04",
@@ -110,9 +127,61 @@
    ]
   },
   {
+   "code": "600988",
+   "name": "赤峰黄金",
+   "announcements": [
+    {
+     "title": "赤峰黄金：H股市场公告",
+     "date": "2026-11-03",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600988&id=12686830"
+    }
+   ]
+  },
+  {
+   "code": "601123",
+   "name": "马矿股份",
+   "announcements": [
+    {
+     "title": "马矿股份：关于完成工商变更登记并换发营业执照的公告",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601123&id=12691814"
+    },
+    {
+     "title": "马矿股份：福建至理律师事务所关于福建马坑矿业股份有限公司2026年第六次临时股东会的法律意见书",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601123&id=12691813"
+    },
+    {
+     "title": "马矿股份：2026年第六次临时股东会决议公告",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601123&id=12691812"
+    },
+    {
+     "title": "马矿股份：股票交易异常波动公告",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601123&id=12691811"
+    },
+    {
+     "title": "马矿股份：第八届董事会第九次会议决议公告",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601123&id=12691810"
+    },
+    {
+     "title": "马矿股份：2026年第七次临时股东会会议材料",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601123&id=12691767"
+    }
+   ]
+  },
+  {
    "code": "601599",
    "name": "浙文影业",
    "announcements": [
+    {
+     "title": "浙文影业：股票交易风险提示性公告",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601599&id=12691332"
+    },
     {
      "title": "浙文影业：股票交易异常波动公告",
      "date": "2026-11-04",
@@ -121,81 +190,67 @@
    ]
   },
   {
-   "code": "603258",
-   "name": "电魂网络",
+   "code": "603127",
+   "name": "昭衍新药",
    "announcements": [
     {
-     "title": "电魂网络：关于股票交易异常波动的公告",
+     "title": "昭衍新药：H股公告：10月月报表",
      "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603258&id=12689678"
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603127&id=12689440"
     }
    ]
   },
   {
-   "code": "603289",
-   "name": "泰瑞机器",
+   "code": "603203",
+   "name": "快克智能",
    "announcements": [
     {
-     "title": "泰瑞机器：关于对外投资及购买资产的公告",
+     "title": "快克智能：关于2025年限制性股票激励计划部分限制性股票回购注销实施的公告",
      "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603289&id=12687944"
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603203&id=12688669"
     },
     {
-     "title": "泰瑞机器：第五届董事会第十七次会议决议公告",
+     "title": "快克智能：2025年限制性股票激励计划部分限制性股票回购注销实施的法律意见",
      "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603289&id=12687943"
-    },
-    {
-     "title": "泰瑞机器：关于泰瑞机器股份有限公司对外投资暨购买资产相关事项的监管工作函",
-     "date": "2026-11-02",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603289&id=12688522"
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603203&id=12688667"
     }
    ]
   },
   {
-   "code": "603906",
-   "name": "龙蟠科技",
+   "code": "603256",
+   "name": "宏和科技",
    "announcements": [
     {
-     "title": "龙蟠科技：关于日常经营重大合同相关事项的监管工作函的回复公告",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603906&id=12690497"
-    },
-    {
-     "title": "龙蟠科技：关于召开2026年第六次临时股东会的通知",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603906&id=12690496"
-    },
-    {
-     "title": "龙蟠科技：2026年第六次临时股东会会议资料",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603906&id=12690495"
-    },
-    {
-     "title": "龙蟠科技：中信建投证券股份有限公司关于江苏龙蟠科技集团股份有限公司向特定对象发行A股股票限售股上市流通的核查意见",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603906&id=12690221"
-    },
-    {
-     "title": "龙蟠科技：关于向特定对象发行A股股票限售股上市流通的公告",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603906&id=12690218"
-    },
-    {
-     "title": "龙蟠科技：关于公司控股股东部分股份质押的公告",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603906&id=12688670"
+     "title": "宏和科技：关于部分募集资金账户销户的公告",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603256&id=12691340"
     }
    ]
   },
   {
-   "code": "605388",
-   "name": "均瑶健康",
+   "code": "603259",
+   "name": "药明康德",
    "announcements": [
     {
-     "title": "均瑶健康：投资者关系活动记录表2026-008",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=605388&id=12689938"
+     "title": "药明康德：关于召开2026年第三季度业绩说明会的公告",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603259&id=12691159"
+    },
+    {
+     "title": "药明康德：H股公告",
+     "date": "2026-11-04",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603259&id=12689828"
+    }
+   ]
+  },
+  {
+   "code": "603381",
+   "name": "永臻股份",
+   "announcements": [
+    {
+     "title": "永臻股份：股票交易异常波动公告",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603381&id=12691427"
     }
    ]
   },
@@ -204,175 +259,14 @@
    "name": "龙版传媒",
    "announcements": [
     {
+     "title": "龙版传媒：关于股票交易风险提示性公告",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=605577&id=12691597"
+    },
+    {
      "title": "龙版传媒：关于股票交易异常波动公告",
      "date": "2026-11-04",
      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=605577&id=12689853"
-    }
-   ]
-  },
-  {
-   "code": "002086",
-   "name": "东方海洋",
-   "announcements": [
-    {
-     "title": "东方海洋：股票交易异常波动暨风险提示公告",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002086&id=12690423"
-    }
-   ]
-  },
-  {
-   "code": "000995",
-   "name": "皇台酒业",
-   "announcements": [
-    {
-     "title": "皇台酒业：关于股票交易异常波动的公告",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000995&id=12688332"
-    }
-   ]
-  },
-  {
-   "code": "002827",
-   "name": "高争民爆",
-   "announcements": [
-    {
-     "title": "高争民爆：股票交易异常波动公告",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12690356"
-    },
-    {
-     "title": "高争民爆：关于回购公司股份进展的公告",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12690355"
-    },
-    {
-     "title": "高争民爆：天风证券股份有限公司关于西藏高争民爆股份有限公司收购报告书之2026年第三季度持续督导意见",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12690326"
-    },
-    {
-     "title": "高争民爆：发行股份购买资产并募集配套资金暨关联交易预案",
-     "date": "2026-11-02",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12686358"
-    },
-    {
-     "title": "高争民爆：关于本次重大资产重组采取的保密措施及保密制度的说明",
-     "date": "2026-11-02",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12686357"
-    },
-    {
-     "title": "高争民爆：关于本次交易履行法定程序的完备性、合规性及提交法律文件有效性的说明",
-     "date": "2026-11-02",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12686356"
-    },
-    {
-     "title": "高争民爆：发行股份购买资产并募集配套资金暨关联交易预案(摘要)",
-     "date": "2026-11-02",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12686355"
-    },
-    {
-     "title": "高争民爆：关于本次交易预计构成重大资产重组、关联交易、不构成重组上市的说明",
-     "date": "2026-11-02",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12686354"
-    },
-    {
-     "title": "高争民爆：关于本次交易符合《上市公司监管指引第9号—上市公司筹划和实施重大资产重组的监管要求》第四条规定的说明",
-     "date": "2026-11-02",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12686353"
-    },
-    {
-     "title": "高争民爆：关于本次交易相关主体不存在《上市公司监管指引第7号—上市公司重大资产重组相关股票异常交易监管》第十二条及《深圳证券交易所上市公司自律监管指引第8号—重大资产重组》第三十条情形的说明",
-     "date": "2026-11-02",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12686352"
-    },
-    {
-     "title": "高争民爆：关于本次交易不存在《上市公司证券发行注册管理办法》第十一条规定的不得向特定对象发行股票的情形的说明",
-     "date": "2026-11-02",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12686351"
-    },
-    {
-     "title": "高争民爆：关于本次交易符合《上市公司重大资产重组管理办法》第十一条、第四十三条和第四十四条规定的说明",
-     "date": "2026-11-02",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12686350"
-    },
-    {
-     "title": "高争民爆：关于本次重组信息公布前公司股票价格波动情况的说明",
-     "date": "2026-11-02",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12686349"
-    },
-    {
-     "title": "高争民爆：关于本次重组前12个月内购买、出售资产情况的说明",
-     "date": "2026-11-02",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12686348"
-    },
-    {
-     "title": "高争民爆：第四届董事会独立董事专门会议第十一次会议决议",
-     "date": "2026-11-02",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12686347"
-    },
-    {
-     "title": "高争民爆：关于暂不召开股东会审议本次交易相关事项的公告",
-     "date": "2026-11-02",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12686346"
-    },
-    {
-     "title": "高争民爆：关于披露发行股份购买资产并募集配套资金暨关联交易事项预案的一般风险提示暨公司股票复牌的提示性公告",
-     "date": "2026-11-02",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12686345"
-    },
-    {
-     "title": "高争民爆：关于筹划重大资产重组停牌前一个交易日前十大股东和前十大流通股股东持股情况的公告",
-     "date": "2026-11-02",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12686344"
-    },
-    {
-     "title": "高争民爆：第四届董事会第二十四次会议决议公告",
-     "date": "2026-11-02",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12686343"
-    }
-   ]
-  },
-  {
-   "code": "002029",
-   "name": "七匹狼",
-   "announcements": [
-    {
-     "title": "七匹狼：关于股票交易异常波动的公告",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002029&id=12688300"
-    }
-   ]
-  },
-  {
-   "code": "002292",
-   "name": "奥飞娱乐",
-   "announcements": [
-    {
-     "title": "奥飞娱乐：关于回购股份的进展公告",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002292&id=12690524"
-    },
-    {
-     "title": "奥飞娱乐：股票交易异常波动公告",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002292&id=12690523"
-    },
-    {
-     "title": "奥飞娱乐：2026年11月3日投资者关系活动记录表",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002292&id=12690520"
-    }
-   ]
-  },
-  {
-   "code": "000599",
-   "name": "青岛双星",
-   "announcements": [
-    {
-     "title": "青岛双星：股票交易异常波动公告",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000599&id=12690051"
     }
    ]
   },
@@ -404,38 +298,39 @@
    ]
   },
   {
-   "code": "002692",
-   "name": "远程股份",
+   "code": "002827",
+   "name": "高争民爆",
    "announcements": [
     {
-     "title": "远程股份：中复碳芯电缆科技有限公司审计报告",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002692&id=12688730"
+     "title": "高争民爆：股票交易异常波动公告",
+     "date": "2026-11-04",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12690356"
     },
     {
-     "title": "远程股份：拟股权收购所涉及的中复碳芯电缆科技有限公司股东全部权益价值资产评估报告",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002692&id=12688729"
+     "title": "高争民爆：关于回购公司股份进展的公告",
+     "date": "2026-11-04",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12690355"
     },
     {
-     "title": "远程股份：关于拟组成联合体并通过公开摘牌方式收购中复碳芯电缆科技有限公司股权的公告",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002692&id=12688727"
+     "title": "高争民爆：天风证券股份有限公司关于西藏高争民爆股份有限公司收购报告书之2026年第三季度持续督导意见",
+     "date": "2026-11-04",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12690326"
+    }
+   ]
+  },
+  {
+   "code": "002992",
+   "name": "宝明科技",
+   "announcements": [
+    {
+     "title": "宝明科技：关于全资子公司为公司提供担保的进展公告",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002992&id=12691836"
     },
     {
-     "title": "远程股份：第六届董事会第六次会议决议公告",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002692&id=12688726"
-    },
-    {
-     "title": "远程股份：关于召开2026年第二次临时股东会的通知",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002692&id=12688725"
-    },
-    {
-     "title": "远程股份：关于拟续聘会计师事务所的公告",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002692&id=12688724"
+     "title": "宝明科技：关于全资子公司为公司提供担保的进展公告",
+     "date": "2026-11-04",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002992&id=12689099"
     }
    ]
   },
@@ -451,13 +346,13 @@
    ]
   },
   {
-   "code": "000591",
-   "name": "太阳能",
+   "code": "000679",
+   "name": "大连友谊",
    "announcements": [
     {
-     "title": "太阳能：关于2026年1-10月新增光伏装机容量、独立储能备案容量及发电量完成情况的公告",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000591&id=12689517"
+     "title": "大连友谊：股票交易异常波动公告",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000679&id=12691317"
     }
    ]
   }
