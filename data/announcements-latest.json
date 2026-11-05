@@ -1,75 +1,109 @@
 {
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "source": "sina-bulletin",
- "fetchedAt": "2026-11-04T21:18:23.486+08:00",
+ "fetchedAt": "2026-11-05T23:37:12.711+08:00",
  "codes": 40,
- "count": 22,
+ "count": 19,
  "announcements": {
-  "300489": "光智科技：关于控股股东部分股份解除质押及新增质押的公告",
-  "300788": "中信出版：股票交易异常波动公告",
-  "300943": "春晖智控：关于使用部分闲置募集资金和自有资金进行现金管理的进展公告",
-  "600584": "长电科技：2026年第二次临时股东会会议资料",
+  "300093": "金刚光伏：上海市通力律师事务所关于甘肃金刚光伏股份有限公司签署重大合同的法律意见书；金刚光伏：第八届董事会第十四次会议决议公告；金刚光伏：关于签署日常经营重大合同的公告",
+  "301209": "联合化学：股票交易异常波动公告",
+  "301697": "贝特利：关于股票交易异常波动的公告；贝特利：投资者关系管理信息20261104",
+  "600261": "阳光照明：股票交易异常波动的公告",
+  "600396": "华电辽能：关于购买资产的公告",
+  "600481": "双良节能：向不特定对象发行可转换公司债券第十次临时受托管理事务报告(2026年度)",
   "600641": "先导基电：关于董事、高级管理人员增持股份计划实施完毕暨增持结果公告；先导基电：关于控股股东部分股份解除质押及质押的公告",
-  "600699": "均胜电子：关于以集中竞价交易方式回购股份方案的公告",
-  "600892": "大晟文化：股票交易风险提示公告；大晟文化：股票交易异常波动公告；大晟文化：关于持股5%以上股东权益变动触及5%刻度的提示性公告；大晟文化：简式权益变动报告书(许锦光)",
-  "600988": "赤峰黄金：H股市场公告",
-  "601123": "马矿股份：关于完成工商变更登记并换发营业执照的公告；马矿股份：福建至理律师事务所关于福建马坑矿业股份有限公司2026年第六次临时股东会的法律意见书；马矿股份：2026年第六次临时股东会决议公告；马矿股份：股票交易异常波动公告；马矿股份：第八届董事会第九次会议决议公告；马矿股份：2026年第七次临时股东会会议材料",
-  "601599": "浙文影业：股票交易风险提示性公告；浙文影业：股票交易异常波动公告",
-  "603127": "昭衍新药：H股公告：10月月报表",
-  "603203": "快克智能：关于2025年限制性股票激励计划部分限制性股票回购注销实施的公告；快克智能：2025年限制性股票激励计划部分限制性股票回购注销实施的法律意见",
-  "603256": "宏和科技：关于部分募集资金账户销户的公告",
-  "603259": "药明康德：关于召开2026年第三季度业绩说明会的公告；药明康德：H股公告",
+  "600683": "京投发展：关于筹划重大资产重组的进展公告",
+  "600865": "百大集团：关于持股5%以上股东权益变动触及1%刻度的提示性公告",
+  "601599": "浙文影业：股票交易风险提示性公告；浙文影业：股票交易风险提示性公告；浙文影业：股票交易异常波动公告",
+  "603098": "森特股份：关于提供担保的进展公告；森特股份：关于公司董事兼高管增持公司股份暨增持计划的进展公告",
+  "603151": "邦基科技：关于公司对外担保的进展公告",
   "603381": "永臻股份：股票交易异常波动公告",
-  "605577": "龙版传媒：关于股票交易风险提示性公告；龙版传媒：关于股票交易异常波动公告",
+  "603598": "引力传媒：股票交易风险提示性公告；引力传媒：股票交易异常波动公告",
+  "605488": "福莱新材：投资者关系活动记录表(2026年11月03日)；福莱新材：关于实际控制人及其一致行动人协议转让股份完成过户登记的公告",
   "002578": "闽发铝业：股票交易异常波动公告",
-  "002058": "紫竹高科：关于控股子公司向全国中小企业股份转让系统申请股票终止挂牌事项进展的提示性公告；紫竹高科：关于股票交易异常波动的公告",
-  "002827": "高争民爆：股票交易异常波动公告；高争民爆：关于回购公司股份进展的公告；高争民爆：天风证券股份有限公司关于西藏高争民爆股份有限公司收购报告书之2026年第三季度持续督导意见",
-  "002992": "宝明科技：关于全资子公司为公司提供担保的进展公告；宝明科技：关于全资子公司为公司提供担保的进展公告",
   "002088": "鲁阳节能：股票交易异常波动公告",
-  "000679": "大连友谊：股票交易异常波动公告"
+  "002388": "新亚制程：关于为子公司提供担保的公告；新亚制程：关于向银行申请综合授信并提供担保的公告",
+  "002565": "顺灏股份：关于上海顺灏新材料科技股份有限公司2026年员工持股计划的法律意见书"
  },
  "details": [
   {
-   "code": "300489",
-   "name": "光智科技",
+   "code": "300093",
+   "name": "金刚光伏",
    "announcements": [
     {
-     "title": "光智科技：关于控股股东部分股份解除质押及新增质押的公告",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300489&id=12689291"
-    }
-   ]
-  },
-  {
-   "code": "300788",
-   "name": "中信出版",
-   "announcements": [
-    {
-     "title": "中信出版：股票交易异常波动公告",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300788&id=12691830"
-    }
-   ]
-  },
-  {
-   "code": "300943",
-   "name": "春晖智控",
-   "announcements": [
-    {
-     "title": "春晖智控：关于使用部分闲置募集资金和自有资金进行现金管理的进展公告",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300943&id=12689101"
-    }
-   ]
-  },
-  {
-   "code": "600584",
-   "name": "长电科技",
-   "announcements": [
-    {
-     "title": "长电科技：2026年第二次临时股东会会议资料",
+     "title": "金刚光伏：上海市通力律师事务所关于甘肃金刚光伏股份有限公司签署重大合同的法律意见书",
      "date": "2026-11-05",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600584&id=12691149"
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300093&id=12693577"
+    },
+    {
+     "title": "金刚光伏：第八届董事会第十四次会议决议公告",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300093&id=12693576"
+    },
+    {
+     "title": "金刚光伏：关于签署日常经营重大合同的公告",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300093&id=12693575"
+    }
+   ]
+  },
+  {
+   "code": "301209",
+   "name": "联合化学",
+   "announcements": [
+    {
+     "title": "联合化学：股票交易异常波动公告",
+     "date": "2026-11-04",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=301209&id=12691835"
+    }
+   ]
+  },
+  {
+   "code": "301697",
+   "name": "贝特利",
+   "announcements": [
+    {
+     "title": "贝特利：关于股票交易异常波动的公告",
+     "date": "2026-11-06",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=301697&id=12693265"
+    },
+    {
+     "title": "贝特利：投资者关系管理信息20261104",
+     "date": "2026-11-04",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=301697&id=12692165"
+    }
+   ]
+  },
+  {
+   "code": "600261",
+   "name": "阳光照明",
+   "announcements": [
+    {
+     "title": "阳光照明：股票交易异常波动的公告",
+     "date": "2026-11-04",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600261&id=12689768"
+    }
+   ]
+  },
+  {
+   "code": "600396",
+   "name": "华电辽能",
+   "announcements": [
+    {
+     "title": "华电辽能：关于购买资产的公告",
+     "date": "2026-11-06",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600396&id=12693187"
+    }
+   ]
+  },
+  {
+   "code": "600481",
+   "name": "双良节能",
+   "announcements": [
+    {
+     "title": "双良节能：向不特定对象发行可转换公司债券第十次临时受托管理事务报告(2026年度)",
+     "date": "2026-11-06",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600481&id=12692390"
     }
    ]
   },
@@ -90,86 +124,24 @@
    ]
   },
   {
-   "code": "600699",
-   "name": "均胜电子",
+   "code": "600683",
+   "name": "京投发展",
    "announcements": [
     {
-     "title": "均胜电子：关于以集中竞价交易方式回购股份方案的公告",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600699&id=12690397"
+     "title": "京投发展：关于筹划重大资产重组的进展公告",
+     "date": "2026-11-06",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600683&id=12693291"
     }
    ]
   },
   {
-   "code": "600892",
-   "name": "大晟文化",
+   "code": "600865",
+   "name": "百大集团",
    "announcements": [
     {
-     "title": "大晟文化：股票交易风险提示公告",
-     "date": "2026-11-05",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600892&id=12691932"
-    },
-    {
-     "title": "大晟文化：股票交易异常波动公告",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600892&id=12690411"
-    },
-    {
-     "title": "大晟文化：关于持股5%以上股东权益变动触及5%刻度的提示性公告",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600892&id=12688526"
-    },
-    {
-     "title": "大晟文化：简式权益变动报告书(许锦光)",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600892&id=12688524"
-    }
-   ]
-  },
-  {
-   "code": "600988",
-   "name": "赤峰黄金",
-   "announcements": [
-    {
-     "title": "赤峰黄金：H股市场公告",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600988&id=12686830"
-    }
-   ]
-  },
-  {
-   "code": "601123",
-   "name": "马矿股份",
-   "announcements": [
-    {
-     "title": "马矿股份：关于完成工商变更登记并换发营业执照的公告",
-     "date": "2026-11-05",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601123&id=12691814"
-    },
-    {
-     "title": "马矿股份：福建至理律师事务所关于福建马坑矿业股份有限公司2026年第六次临时股东会的法律意见书",
-     "date": "2026-11-05",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601123&id=12691813"
-    },
-    {
-     "title": "马矿股份：2026年第六次临时股东会决议公告",
-     "date": "2026-11-05",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601123&id=12691812"
-    },
-    {
-     "title": "马矿股份：股票交易异常波动公告",
-     "date": "2026-11-05",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601123&id=12691811"
-    },
-    {
-     "title": "马矿股份：第八届董事会第九次会议决议公告",
-     "date": "2026-11-05",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601123&id=12691810"
-    },
-    {
-     "title": "马矿股份：2026年第七次临时股东会会议材料",
-     "date": "2026-11-05",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601123&id=12691767"
+     "title": "百大集团：关于持股5%以上股东权益变动触及1%刻度的提示性公告",
+     "date": "2026-11-06",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600865&id=12692872"
     }
    ]
   },
@@ -177,6 +149,11 @@
    "code": "601599",
    "name": "浙文影业",
    "announcements": [
+    {
+     "title": "浙文影业：股票交易风险提示性公告",
+     "date": "2026-11-06",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601599&id=12693115"
+    },
     {
      "title": "浙文影业：股票交易风险提示性公告",
      "date": "2026-11-05",
@@ -190,56 +167,29 @@
    ]
   },
   {
-   "code": "603127",
-   "name": "昭衍新药",
+   "code": "603098",
+   "name": "森特股份",
    "announcements": [
     {
-     "title": "昭衍新药：H股公告：10月月报表",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603127&id=12689440"
-    }
-   ]
-  },
-  {
-   "code": "603203",
-   "name": "快克智能",
-   "announcements": [
-    {
-     "title": "快克智能：关于2025年限制性股票激励计划部分限制性股票回购注销实施的公告",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603203&id=12688669"
+     "title": "森特股份：关于提供担保的进展公告",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603098&id=12690963"
     },
     {
-     "title": "快克智能：2025年限制性股票激励计划部分限制性股票回购注销实施的法律意见",
-     "date": "2026-11-03",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603203&id=12688667"
-    }
-   ]
-  },
-  {
-   "code": "603256",
-   "name": "宏和科技",
-   "announcements": [
-    {
-     "title": "宏和科技：关于部分募集资金账户销户的公告",
-     "date": "2026-11-05",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603256&id=12691340"
-    }
-   ]
-  },
-  {
-   "code": "603259",
-   "name": "药明康德",
-   "announcements": [
-    {
-     "title": "药明康德：关于召开2026年第三季度业绩说明会的公告",
-     "date": "2026-11-05",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603259&id=12691159"
-    },
-    {
-     "title": "药明康德：H股公告",
+     "title": "森特股份：关于公司董事兼高管增持公司股份暨增持计划的进展公告",
      "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603259&id=12689828"
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603098&id=12689195"
+    }
+   ]
+  },
+  {
+   "code": "603151",
+   "name": "邦基科技",
+   "announcements": [
+    {
+     "title": "邦基科技：关于公司对外担保的进展公告",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603151&id=12690899"
     }
    ]
   },
@@ -255,18 +205,34 @@
    ]
   },
   {
-   "code": "605577",
-   "name": "龙版传媒",
+   "code": "603598",
+   "name": "引力传媒",
    "announcements": [
     {
-     "title": "龙版传媒：关于股票交易风险提示性公告",
-     "date": "2026-11-05",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=605577&id=12691597"
+     "title": "引力传媒：股票交易风险提示性公告",
+     "date": "2026-11-06",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603598&id=12693398"
     },
     {
-     "title": "龙版传媒：关于股票交易异常波动公告",
+     "title": "引力传媒：股票交易异常波动公告",
+     "date": "2026-11-05",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603598&id=12691361"
+    }
+   ]
+  },
+  {
+   "code": "605488",
+   "name": "福莱新材",
+   "announcements": [
+    {
+     "title": "福莱新材：投资者关系活动记录表(2026年11月03日)",
      "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=605577&id=12689853"
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=605488&id=12691096"
+    },
+    {
+     "title": "福莱新材：关于实际控制人及其一致行动人协议转让股份完成过户登记的公告",
+     "date": "2026-11-04",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=605488&id=12689857"
     }
    ]
   },
@@ -282,59 +248,6 @@
    ]
   },
   {
-   "code": "002058",
-   "name": "紫竹高科",
-   "announcements": [
-    {
-     "title": "紫竹高科：关于控股子公司向全国中小企业股份转让系统申请股票终止挂牌事项进展的提示性公告",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002058&id=12689502"
-    },
-    {
-     "title": "紫竹高科：关于股票交易异常波动的公告",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002058&id=12689487"
-    }
-   ]
-  },
-  {
-   "code": "002827",
-   "name": "高争民爆",
-   "announcements": [
-    {
-     "title": "高争民爆：股票交易异常波动公告",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12690356"
-    },
-    {
-     "title": "高争民爆：关于回购公司股份进展的公告",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12690355"
-    },
-    {
-     "title": "高争民爆：天风证券股份有限公司关于西藏高争民爆股份有限公司收购报告书之2026年第三季度持续督导意见",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002827&id=12690326"
-    }
-   ]
-  },
-  {
-   "code": "002992",
-   "name": "宝明科技",
-   "announcements": [
-    {
-     "title": "宝明科技：关于全资子公司为公司提供担保的进展公告",
-     "date": "2026-11-05",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002992&id=12691836"
-    },
-    {
-     "title": "宝明科技：关于全资子公司为公司提供担保的进展公告",
-     "date": "2026-11-04",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002992&id=12689099"
-    }
-   ]
-  },
-  {
    "code": "002088",
    "name": "鲁阳节能",
    "announcements": [
@@ -346,13 +259,29 @@
    ]
   },
   {
-   "code": "000679",
-   "name": "大连友谊",
+   "code": "002388",
+   "name": "新亚制程",
    "announcements": [
     {
-     "title": "大连友谊：股票交易异常波动公告",
-     "date": "2026-11-05",
-     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000679&id=12691317"
+     "title": "新亚制程：关于为子公司提供担保的公告",
+     "date": "2026-11-06",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002388&id=12693479"
+    },
+    {
+     "title": "新亚制程：关于向银行申请综合授信并提供担保的公告",
+     "date": "2026-11-06",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002388&id=12693478"
+    }
+   ]
+  },
+  {
+   "code": "002565",
+   "name": "顺灏股份",
+   "announcements": [
+    {
+     "title": "顺灏股份：关于上海顺灏新材料科技股份有限公司2026年员工持股计划的法律意见书",
+     "date": "2026-11-06",
+     "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002565&id=12692452"
     }
    ]
   }
