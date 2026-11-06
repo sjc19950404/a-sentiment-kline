@@ -1,13 +1,13 @@
 {
  "meta": {
-  "generatedAt": "2026-11-05T15:36:40.178Z",
-  "days": 259,
-  "exact_days": 11,
+  "generatedAt": "2026-11-06T10:48:33.361Z",
+  "days": 260,
+  "exact_days": 12,
   "approx_days": 248,
   "rules": "src/emotion_cycle.js（冰点>退潮>高潮>主升>复苏>震荡；score 六项加权 0-100）",
   "caliber_note": "approx=true 日子来自 archive.json 汇总字段：broken_rate/hard_board_rate 为触板口径（≠池内 zbc 口径）、theme_concentration 为 null（主升不触发）；精确数据自 ztpool_history.json 积累之日起覆盖（接口只能取最近交易日）",
   "emotion_dist": {
-   "震荡": 159,
+   "震荡": 160,
    "复苏": 58,
    "冰点": 2,
    "退潮": 9,
@@ -4135,6 +4135,20 @@
     "theme_concentration": 0.131,
     "theme_top": "光伏设备",
     "hard_board_rate": 0.5714
+   }
+  },
+  {
+   "date": "20261106",
+   "emotion": "震荡",
+   "score": 33,
+   "metrics": {
+    "limit_up_count": 32,
+    "continuous_count": 11,
+    "broken_rate": 0.6875,
+    "max_board": 5,
+    "theme_concentration": 0.0938,
+    "theme_top": "光伏设备",
+    "hard_board_rate": 0.3125
    }
   }
  ]
