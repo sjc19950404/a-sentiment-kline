@@ -2,7 +2,7 @@
  "kind": "llm-risk-blacklist",
  "version": 1,
  "asOfDate": "2026-11-06",
- "generatedAt": "2026-11-06T21:18:25.126+08:00",
+ "generatedAt": "2026-11-07T18:50:33.443+08:00",
  "model": "glm-4-flash",
  "source": "announcements-latest.json",
  "scanned": 18,
